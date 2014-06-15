@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="880.76349" height="2271.2466" id="svg9573" version="1.1" inkscape:version="0.48.4 r9939" sodipodi:docname="Mailnag_flyer_2.svg" inkscape:export-filename="/home/rax/Git/Commited/mailnag-design/Flyer/Mailnag_flyer2.png" inkscape:export-xdpi="90" inkscape:export-ydpi="90">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="880" height="2271" id="svg9573" version="1.1" inkscape:version="0.48.4 r9939" sodipodi:docname="Mailnag_flyer_2.svg" inkscape:export-filename="/home/rax/Git/Commited/mailnag-design/Flyer/Mailnag_flyer2.png" inkscape:export-xdpi="90" inkscape:export-ydpi="90">
    <defs id="defs9575">
       <linearGradient id="linearGradient7076" inkscape:collect="always">
          <stop id="stop7078" offset="0" style="stop-color:white;stop-opacity:0.74129355" />
@@ -190,11 +190,11 @@
          <cc:Work rdf:about="">
             <dc:format>image/svg+xml</dc:format>
             <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-            <dc:title />
+            <dc:title></dc:title>
          </cc:Work>
       </rdf:RDF>
    </metadata>
-   <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(28.381741,-423.98044)">
+   <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(28.381741,-424.22702)">
       <path sodipodi:nodetypes="cccccc" inkscape:connector-curvature="0" id="path7096" d="m 147,452.36218 677,0 0,2445.00002 -824,0 L 1,613.71852 C 60.408486,554.31003 86.753386,512.60879 147,452.36218 z" style="opacity:0.05907174;color:black;fill:black;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter7116);enable-background:accumulate" transform="matrix(1,0,0,0.90785827,0,39.06629)" />
       <path sodipodi:nodetypes="cccccc" inkscape:connector-curvature="0" id="path7094" d="m 147,452.36218 677,0 0,2213.96852 -824,0 L 1,596.14602 C 60.408486,542.15237 86.753386,507.11756 147,452.36218 z" style="opacity:0.1434599;color:black;fill:url(#radialGradient7114);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path style="color:black;fill:url(#radialGradient6252);fill-opacity:1;fill-rule:evenodd;stroke:#dcd1c4;stroke-width:0.9533754;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" d="m 146.98501,452.33887 677.0383,0 0,2214.01513 -824.04662231,0 L 0.97674427,597.12548 C 60.388592,543.1307 86.734982,507.0954 146.98501,452.33887 z" id="rect10243" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccc" />
