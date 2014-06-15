@@ -182,7 +182,7 @@
          <rect style="opacity:0.28691987;color:black;fill:black;fill-opacity:0.33333333;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="rect6365" width="357" height="410" x="435.61819" y="2179.2268" rx="13.058639" ry="12.853303" />
       </clipPath>
    </defs>
-   <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.7071068" inkscape:cx="706.58218" inkscape:cy="1313.2416" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" inkscape:showpageshadow="false" inkscape:object-nodes="true" inkscape:snap-page="true" inkscape:window-width="1366" inkscape:window-height="741" inkscape:window-x="0" inkscape:window-y="27" inkscape:window-maximized="1" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" showguides="true" inkscape:guide-bbox="true" inkscape:snap-global="true">
+   <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.3535534" inkscape:cx="511.83149" inkscape:cy="1688.7054" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" inkscape:showpageshadow="false" inkscape:object-nodes="true" inkscape:snap-page="true" inkscape:window-width="1366" inkscape:window-height="741" inkscape:window-x="0" inkscape:window-y="27" inkscape:window-maximized="1" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" showguides="true" inkscape:guide-bbox="true" inkscape:snap-global="true">
       <inkscape:grid type="xygrid" id="grid8057" empspacing="5" visible="true" enabled="true" snapvisiblegridlinesonly="true" />
    </sodipodi:namedview>
    <metadata id="metadata9578">
@@ -266,6 +266,5 @@
             <rect style="color:black;fill:black;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="rect6600" width="705.08649" height="705.08649" x="16.162439" y="270.50412" />
          </g>
       </g>
-      <rect ry="12.853303" rx="13.058639" y="1729.7367" x="852.38177" height="410" width="357" id="rect6333" style="opacity:0.28691987;color:black;fill:black;fill-opacity:0.33333333;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
    </g>
 </svg>
